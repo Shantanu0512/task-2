@@ -1,0 +1,4 @@
+First copy the folder in unity 
+The custom message is inside the ROSBridgeLib folder with path shown as- ROSBridgeLib/std_msgs/CombinedInfo
+The publisher ,subscriber and datamanagerscript to manulate data are directly availaible in CombinedInfo_pubs.cs,CombinedInfo_subs.cs and Datamanager1.cs
+Plese sir give me suggestions ,why its not running ,i am not getting errors!
